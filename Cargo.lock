@@ -484,6 +484,7 @@ dependencies = [
 name = "rust_grn"
 version = "0.1.0"
 dependencies = [
+ "dyn-clone",
  "plotly",
  "rand",
  "serde",
